@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Games
+  * Battlefield
+  * Portal
+  * Hearthstone
+* Movies
+  * The Matrix
+  * John Wick
+* Anime  
